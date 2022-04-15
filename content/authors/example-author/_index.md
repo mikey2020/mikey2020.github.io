@@ -1,8 +1,8 @@
 ---
-title: Example Author
-role: Example Role
+title: Michael Eboagu
+role: Software Engineer
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: Badass Badass
 organization:
   name: Example Organization
   url: https://example.com/
