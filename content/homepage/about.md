@@ -7,13 +7,16 @@ bio: Software Engineer and aspiring SRE
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:thesupermike13@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/mikey2020
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/michael-eboagu
 
 weight: 1
 widget:
@@ -41,4 +44,4 @@ widget:
 ---
 
 ## Self Introduction
-Still working on this one
+Still working on this one but in the meantime check out my [blog](https://supermike.hashnode.dev/)
